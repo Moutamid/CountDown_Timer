@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_baseline_add_alarm_24.xml" value="0.125" />
         <entry key="app/src/main/res/layout/activity_add_timer.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_donate.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_timer_acticity.xml" value="0.19610507246376813" />
